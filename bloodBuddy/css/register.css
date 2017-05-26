@@ -1,0 +1,67 @@
+#register
+{
+	padding-bottom: 100px;
+	margin-top: 50px;
+	margin-left: 320px;
+	width: 750px;
+
+}
+#tabbox{
+	width: 100%;
+	height: 40px;
+	border-bottom: 1px solid white;
+}
+.tab{
+	
+	font-size: 20px;
+	display: inline-flex;
+	padding-left:  15px;
+	padding-right: 15px;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	-webkit-border-top-left-radius:20px;
+	-webkit-border-top-right-radius:20px;
+	text-transform: uppercase;
+}
+#tabbox a{
+	float: left;
+	text-decoration: none;
+	color: #000;
+	cursor: pointer;
+	margin-top: 25px;
+	border-bottom: 2px solid #f13544;
+	margin-bottom: 25px;
+}
+#tabbox a:hover{
+	font-size: 22px;
+	background-color:#fff;
+}
+.select{
+	text-align: center;
+	margin-left: 5px;
+	background-color: #f13544;
+
+}
+#receiver-form{
+	text-align: center;
+	display: none;
+}
+#hospital-form{
+	text-align: center;
+	display: none;
+}
+#bb-form{
+	text-align: center;
+	display: none;
+}
+
+#register button{
+	left: 30%;
+}
+
+
+
+
+
+
