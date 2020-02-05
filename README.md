@@ -29,3 +29,7 @@ Technologies used:
 1) Php - End to end connectivity between the user and the database and implementing algorithms.
 2) MySQL - Popular SQL client for RDBMS
 3) HTML, CSS - Used to create a user friendly web application.
+
+Developers: Sayli Uttarwar, Saral Uttamani(https://github.com/MrSaral), Tej Thakkar.
+
+Special thanks to Prof. Rupali for guidance.
